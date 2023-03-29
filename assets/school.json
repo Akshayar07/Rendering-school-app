@@ -1,0 +1,796 @@
+{
+  "items": [
+    {
+      "name of the class": "1st Standard",
+      "number of students": "10",
+      "detail of students": [
+        {
+          "name": "Akshaya",
+          "roll number": 1,
+          "place": "Nagercoil",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "100"
+            },
+            {
+              "subject": "Science",
+              "mark": "100"
+            },
+            {
+              "subject": "Social",
+              "mark": "85"
+            }
+          ]
+        },
+        {
+          "name": "Abi",
+          "roll number": 2,
+          "place": "chennai",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        },
+        {
+          "name": "Anu",
+          "roll number": 3,
+          "place": "Nagercoil",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        },
+        {
+          "name": "Ani",
+          "roll number": 4,
+          "place": "Chennai",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        },
+        {
+          "name": "zara",
+          "roll number": 4,
+          "place": "Chennai",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        },
+        {
+          "name": "krishan",
+          "roll number": 4,
+          "place": "Chennai",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        },
+        {
+          "name": "devi",
+          "roll number": 4,
+          "place": "Chennai",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        },
+        {
+          "name": "kavi",
+          "roll number": 4,
+          "place": "Chennai",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        },
+        {
+          "name": "amala",
+          "roll number": 4,
+          "place": "Chennai",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        },
+        {
+          "name": "subha",
+          "roll number": 4,
+          "place": "Chennai",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name of the class": "2nd Standard",
+      "number of students": "4",
+      "detail of students": [
+        {
+          "name": "Ravi",
+          "roll number": 1,
+          "place": "chennai",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        },
+        {
+          "name": "gayu",
+          "roll number": 2,
+          "place": "chennai",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        },
+        {
+          "name": "hari",
+          "roll number": 3,
+          "place": "Nagercoil",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        },
+        {
+          "name": "abi",
+          "roll number": 4,
+          "place": "Chennai",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name of the class": "3rd Standard",
+      "number of students": "4",
+      "detail of students": [
+        {
+          "name": "vani",
+          "roll number": 1,
+          "place": "Nagercoil",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        },
+        {
+          "name": "shree",
+          "roll number": 2,
+          "place": "chennai",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        },
+        {
+          "name": "vanishree",
+          "roll number": 3,
+          "place": "Nagercoil",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        },
+        {
+          "name": "sai",
+          "roll number": 4,
+          "place": "Chennai",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name of the class": "4th Standard",
+      "number of students": "10",
+      "detail of students": [
+        {
+          "name": "Akshaya",
+          "roll number": 1,
+          "place": "Nagercoil",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        },
+        {
+          "name": "Abi",
+          "roll number": 2,
+          "place": "chennai",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        },
+        {
+          "name": "Anu",
+          "roll number": 3,
+          "place": "Nagercoil",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        },
+        {
+          "name": "Ani",
+          "roll number": 4,
+          "place": "Chennai",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        },
+        {
+          "name": "zara",
+          "roll number": 4,
+          "place": "Chennai",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        },
+        {
+          "name": "krishan",
+          "roll number": 4,
+          "place": "Chennai",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        },
+        {
+          "name": "devi",
+          "roll number": 4,
+          "place": "Chennai",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        },
+        {
+          "name": "kavi",
+          "roll number": 4,
+          "place": "Chennai",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        },
+        {
+          "name": "amala",
+          "roll number": 4,
+          "place": "Chennai",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        },
+        {
+          "name": "subha",
+          "roll number": 4,
+          "place": "Chennai",
+          "markslist": [
+            {
+              "subject": "Tamil",
+              "mark": 100
+            },
+            {
+              "subject": "English",
+              "mark": 100
+            },
+            {
+              "subject": "Maths",
+              "mark": "80"
+            },
+            {
+              "subject": "Science",
+              "mark": "80"
+            },
+            {
+              "subject": "Social",
+              "mark": "80"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
